@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# SPDX-FileCopyrightText: 2023 SHUAI ZHANG
 import sys;
 ans = 0
 for line in sys.stdin:
