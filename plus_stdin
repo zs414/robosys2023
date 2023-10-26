@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2023 SHUAI ZHANG
+# SPDX-License-Identifier:BSD-3-Clause
 import sys;
 ans = 0
 for line in sys.stdin:
