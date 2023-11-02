@@ -6,6 +6,5 @@ ng () {
 ret=0
 a=山田
 [ "$a" = 山田 ] || ng "$LINENO"
-[ "$a" = 上田 ] || ng "$LINENO"
 
 exit $ret
