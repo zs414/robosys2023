@@ -7,7 +7,7 @@
 
 ## ダウンロード
 wsl2をwindowsにインストールする.
-**wsl --install**
+* **wsl --install**
 
 ## 実行例
 * **seq 5 | ./plus**
