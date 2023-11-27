@@ -7,9 +7,15 @@
 
 ## ダウンロード
 wsl2をwindowsにインストールする.
-'''wsl --install'''
+**wsl --install**
+
+## 実行例
+**seq 5 | ./plus**
+**15**
+
 ## テスト結果
 [![test](https://github.com/zs414/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/zs414/robosys2023/actions/workflows/test.yml)
+
 ## 必要なソフトウェア
 * Python
   * テスト済み:　3.7~3.10
