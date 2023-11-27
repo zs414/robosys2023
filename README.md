@@ -1,13 +1,16 @@
 # robosys2023
-ロボットシステム学
-# plusコマンド
+講義を基づいてプログラミングを完成する
 
+# plusコマンド
 ## 機能
 標準入力から読み込んだ数字を足す.
 
 ## ダウンロード
 wsl2をwindowsにインストールする.
 * **wsl --install**
+
+## インストール
+* **git clone https://github.com/zs414/robosys2023.git**
 
 ## 実行例
 * **seq 5 | ./plus**
@@ -16,12 +19,12 @@ wsl2をwindowsにインストールする.
 ## テスト結果
 [![test](https://github.com/zs414/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/zs414/robosys2023/actions/workflows/test.yml)
 
+## テスト環境
+* Ubuntu 20.04.05
+
 ## 必要なソフトウェア
 * Python
   * テスト済み:　3.7~3.10
-
-## テスト環境
-* Ubuntu 20.04.05
 
 ## 著作権とライセンス
 * このソフトウェアパッケージは,3条項BSDライセンスの下で,再頒布及び使用が許可されます.
