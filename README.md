@@ -5,6 +5,9 @@
 ## 機能
 標準入力から読み込んだ数字を足す.
 
+## ダウンロード
+wsl2をwindowsにインストールする.
+'''wsl --install'''
 ## テスト結果
 [![test](https://github.com/zs414/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/zs414/robosys2023/actions/workflows/test.yml)
 ## 必要なソフトウェア
