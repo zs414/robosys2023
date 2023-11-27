@@ -10,8 +10,8 @@ wsl2をwindowsにインストールする.
 **wsl --install**
 
 ## 実行例
-**seq 5 | ./plus**
-**15**
+* **seq 5 | ./plus**
+* **15**
 
 ## テスト結果
 [![test](https://github.com/zs414/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/zs414/robosys2023/actions/workflows/test.yml)
